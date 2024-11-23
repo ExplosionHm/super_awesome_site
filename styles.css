@@ -1,6 +1,6 @@
 @font-face {
-  font-family: poppins;
-  src: url(Poppins-Bold.ttf);
+  font-family: 'mummy joe';
+  src: url(mummy-joe.ttf);
 }
 
 .zoom {
@@ -28,7 +28,7 @@
 
 .text {
   text-align: center;
-  font-family: poppins;
+  font-family: 'mummy joe';
   -webkit-text-stroke: #ffffff;
   text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
   color: rgb(226, 78, 255);
